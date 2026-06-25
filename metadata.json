@@ -1,0 +1,6 @@
+{
+  "name": "Cửa hàng Trái cây tươi",
+  "description": "Website bán trái cây tươi với React frontend, tích hợp quản lý sản phẩm, giỏ hàng, thanh toán, đi kèm bộ mã nguồn Java Spring Boot backend đầy đủ.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
